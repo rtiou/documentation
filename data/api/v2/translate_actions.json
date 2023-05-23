@@ -659,6 +659,12 @@
     "description": "Returns a single finding with message and resource configuration.",
     "summary": "Get a finding"
   },
+  "UpdateFinding": {
+    "description": "Mute or unmute a specific finding.\nReturns the finding object when the request is successful.",
+    "summary": "Mute a finding",
+    "request_description": "New definition of the mute status of the finding.",
+    "request_schema_description": "The new mute finding request."
+  },
   "ListProcesses": {
     "description": "Get all processes for your organization.",
     "summary": "Get all processes"

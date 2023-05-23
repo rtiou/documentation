@@ -1,7 +1,6 @@
 {
   "message": "Example-Downtime",
   "start": 1636629071,
-  "end": 1636632671,
   "timezone": "Etc/UTC",
   "scope": [
     "test:exampledowntime"
